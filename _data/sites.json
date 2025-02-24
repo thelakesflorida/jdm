@@ -300,6 +300,16 @@
     },
 
     {
+        "name": "ABC",
+        "url": "https://help.abc.net.au/hc/en-us/articles/360001785616-How-do-I-delete-my-ABC-Account",
+        "difficulty": "easy",
+        "notes": "Go to your account settings and click 'Login Details'. Scroll to the bottom and click 'Delete this ABC account'.",
+        "domains": [
+            "abc.net.au"
+        ]
+    },
+    
+    {
         "name": "AbeBooks",
         "url": "https://www.abebooks.com/customer-support/",
         "difficulty": "hard",
@@ -655,6 +665,17 @@
         "notes": "Login, go to your profile settings on the top right, then go to the 'Account' tab and click 'Delete my Account'",
         "domains": [
             "aeriagames.com"
+        ]
+    },
+
+    {
+        "name": "AFL iD",
+        "url": "https://www.afl.com.au/aflid",
+        "difficulty": "hard",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "email": "aflid.support@id.afl",
+        "domains": [
+            "secure.id.afl"
         ]
     },
 
